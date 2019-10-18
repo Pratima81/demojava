@@ -1,9 +1,9 @@
-public class test {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int b = 10;
-		System.out.print(b);
-	}
-
+/** 
+ * The HelloWorldApp class implements an application that simply prints "Hello World" to standard output.
+ */
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, World");
+  }
 }
